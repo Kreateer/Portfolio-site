@@ -1,0 +1,4 @@
+baseURL = 'https://kreateer.github.io/'
+languageCode = 'en-us'
+title = 'Kore wa Pen Desu'
+theme = 'ananke'
