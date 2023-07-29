@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Matija&#39;s Portfolio</title>
+    <link>https://kreateer.github.io/posts/</link>
+    <description>Recent content in Posts on Matija&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 28 Jul 2023 21:01:18 +0200</lastBuildDate><atom:link href="https://kreateer.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Post</title>
+      <link>https://kreateer.github.io/posts/test-post/</link>
+      <pubDate>Fri, 28 Jul 2023 21:01:18 +0200</pubDate>
+      
+      <guid>https://kreateer.github.io/posts/test-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
