@@ -18,6 +18,9 @@ disqusShortname = "yourdiscussshortname"
 [markup.highlight]
 style = "github-dark"
 
+[markup.goldmark.extensions]
+table = true
+
 [params]
   author = "Matija Milaković"
   info = "Game Developer"
@@ -58,13 +61,22 @@ style = "github-dark"
   icon = "fa fa-mastodon fa-2x"
   weight = 3
   url = "https://greengame.dev"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-2x fa-linkedin"
+  weight = 4
+  url = "https://www.linkedin.com/in/matija-milakovic/"
 
 # Menu links
 [[menu.main]]
   name = "Blog"
-  weight = 1
+  weight = 2
   url  = "posts/"
 [[menu.main]]
   name = "About"
-  weight = 2
+  weight = 3
   url = "about/"
+[[menu.main]]
+  name = "Projects"
+  weight = 1
+  url = "projects/"
