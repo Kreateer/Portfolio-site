@@ -1,11 +1,8 @@
 ---
 title: "Projects"
-date: 2023-07-30T02:04:23+02:00
+description: "A comprehensive showcase of projects I've worked on"
 draft: false
 ---
-{{< table >}}
-| ff | ff | ff |
-|:---:|:---:|:---:|
-| Test  | Test  | Test  |
-| aa  | aa  | aa  |
-{{< /table >}}
+
+This page is a comprehensive showcase of projects I have had the privilege to work on throughout my professional journey. 
+Each project showcased here has been handpicked and represents a unique challenge and an opportunity to unleash my creativity, problem-solving skills, and passion for innovation.
