@@ -5,7 +5,7 @@
 
 # Edited for Coder theme:
 
-baseurl = "https://kreateer.github.io"
+baseurl = "https://matijamilakovic.com"
 title = "Matija's Portfolio"
 theme = "hugo-coder"
 languagecode = "en"
