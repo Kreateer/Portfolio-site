@@ -2,37 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>theme demo on Matija&#39;s Portfolio</title>
-    <link>https://kreateer.github.io/categories/theme-demo/</link>
+    <link>https://matijamilakovic.com/categories/theme-demo/</link>
     <description>Recent content in theme demo on Matija&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kreateer.github.io/categories/theme-demo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://matijamilakovic.com/categories/theme-demo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>More Rich Content</title>
-      <link>https://kreateer.github.io/posts/more-rich-content/</link>
+      <link>https://matijamilakovic.com/blog/more-rich-content/</link>
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://kreateer.github.io/posts/more-rich-content/</guid>
-      <description>&lt;p&gt;Hugo Coder provides some Custom Shortcodes.&lt;/p&gt;
-&lt;h2 id=&#34;heading&#34;&gt;
-  
-  &lt;a class=&#34;heading-link&#34; href=&#34;#heading&#34;&gt;
-    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;
-    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;
-  &lt;/a&gt;
-&lt;/h2&gt;</description>
+      <guid>https://matijamilakovic.com/blog/more-rich-content/</guid>
+      <description>&lt;p&gt;Hugo Coder provides some Custom Shortcodes.&lt;/p&gt;&#xA;&lt;h2 id=&#34;heading&#34;&gt;&#xA;  &#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#heading&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;</description>
     </item>
-    
     <item>
       <title>HTML and CSS only tabs</title>
-      <link>https://kreateer.github.io/posts/html-and-css-only-tabs/</link>
+      <link>https://matijamilakovic.com/blog/html-and-css-only-tabs/</link>
       <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://kreateer.github.io/posts/html-and-css-only-tabs/</guid>
-      <description>Shortcodes  Link to heading   The following content:
-{{&amp;lt; tabgroup &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Hello&amp;#34; &amp;gt;}} Hello World! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Goodbye&amp;#34; &amp;gt;}} Goodbye Everybody! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; /tabgroup &amp;gt;}} Will generate:
- .tabs input#tab-0-0:checked ~ .tab-content-0-0 { display: block; }  Hello Hello World!   .tabs input#tab-0-1:checked ~ .tab-content-0-1 { display: block; }  Goodbye Goodbye Everybody!   Right alighment  Link to heading   You can also align the tabs to the right:</description>
+      <guid>https://matijamilakovic.com/blog/html-and-css-only-tabs/</guid>
+      <description>Shortcodes Link to heading The following content:&#xA;{{&amp;lt; tabgroup &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Hello&amp;#34; &amp;gt;}} Hello World! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Goodbye&amp;#34; &amp;gt;}} Goodbye Everybody! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; /tabgroup &amp;gt;}} Will generate:&#xA;Hello Hello World! Goodbye Goodbye Everybody! Right alighment Link to heading You can also align the tabs to the right:&#xA;{{&amp;lt; tabgroup align=&amp;#34;right&amp;#34; &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Hello&amp;#34; &amp;gt;}} Hello World! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Goodbye&amp;#34; &amp;gt;}} Goodbye Everybody!</description>
     </item>
-    
   </channel>
 </rss>

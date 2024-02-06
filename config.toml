@@ -26,7 +26,7 @@ table = true
   info = "Game Developer"
   description = "Matija Milaković's portfolio website"
   keywords = "portfolio,developer,personal"
-  avatarurl = "images/avatar.jpg"
+  avatarurl = "images/me.jpg"
   #gravatar = "john.doe@example.com"
 
   faviconSVG = "/img/favicon.svg"
@@ -56,6 +56,11 @@ table = true
   icon = "fa fa-github fa-2x"
   weight = 1
   url = "https://github.com/kreateer/"
+#[[params.social]]
+#  name = "Codeberg"
+#  icon = "/images/social/codeberg.svg"
+#  weight = 2
+#  url = "https://codeberg.org/kreateer"
 [[params.social]]
   name = "Mastodon"
   icon = "fa fa-mastodon fa-2x"
@@ -71,7 +76,7 @@ table = true
 [[menu.main]]
   name = "Blog"
   weight = 2
-  url  = "posts/"
+  url  = "blog/"
 [[menu.main]]
   name = "About"
   weight = 3
@@ -80,3 +85,11 @@ table = true
   name = "Projects"
   weight = 1
   url = "projects/"
+
+#   [module]
+# [[module.imports]]
+#     path = 'github.com/hugomods/icons/vendors/bootstrap'
+# [[module.imports]]
+#     path = 'github.com/hugomods/icons/vendors/font-awesome'
+# [[module.imports]]
+#     path = 'github.com/hugomods/icons/vendors/simple-icons'
