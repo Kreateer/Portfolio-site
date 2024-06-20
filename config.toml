@@ -21,6 +21,12 @@ style = "github-dark"
 [markup.goldmark.extensions]
 table = true
 
+[markup]
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = true
+    startLevel = 1
+
 [params]
   author = "Matija Milaković"
   info = "Game Developer"

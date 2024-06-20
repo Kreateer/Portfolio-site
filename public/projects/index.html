@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <title>
   Projects · Matija&#39;s Portfolio
 </title>
@@ -16,21 +16,22 @@
 <meta name="description" content="A comprehensive showcase of projects I&#39;ve worked on">
 <meta name="keywords" content="portfolio,developer,personal">
 
-<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Projects"/>
-<meta name="twitter:description" content="A comprehensive showcase of projects I&#39;ve worked on"/>
 
-<meta property="og:title" content="Projects" />
-<meta property="og:description" content="A comprehensive showcase of projects I&#39;ve worked on" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://matijamilakovic.com/projects/" /><meta property="article:section" content="" />
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Projects">
+  <meta name="twitter:description" content="A comprehensive showcase of projects I&#39;ve worked on">
+
+<meta property="og:url" content="http://localhost:1313/projects/">
+  <meta property="og:site_name" content="Matija&#39;s Portfolio">
+  <meta property="og:title" content="Projects">
+  <meta property="og:description" content="A comprehensive showcase of projects I&#39;ve worked on">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
 
 
 
 
-
-
-
-<link rel="canonical" href="https://matijamilakovic.com/projects/">
+<link rel="canonical" href="http://localhost:1313/projects/">
 
 
 <link rel="preload" href="/fonts/forkawesome-webfont.woff2?v=1.2.0" as="font" type="font/woff2" crossorigin>
@@ -38,7 +39,7 @@
 
   
   
-  <link rel="stylesheet" href="/css/coder.min.5adbe72fc41dcfb852215b84695288939b6b606db73238bd3ee936469572fc9c.css" integrity="sha256-WtvnL8Qdz7hSIVuEaVKIk5trYG23Mji9Puk2RpVy/Jw=" crossorigin="anonymous" media="screen" />
+  <link rel="stylesheet" href="/css/coder.css" media="screen">
 
 
 
@@ -48,7 +49,7 @@
   
     
     
-    <link rel="stylesheet" href="/css/coder-dark.min.a00e6364bacbc8266ad1cc81230774a1397198f8cfb7bcba29b7d6fcb54ce57f.css" integrity="sha256-oA5jZLrLyCZq0cyBIwd0oTlxmPjPt7y6KbfW/LVM5X8=" crossorigin="anonymous" media="screen" />
+    <link rel="stylesheet" href="/css/coder-dark.css" media="screen">
   
 
 
@@ -132,7 +133,7 @@
   <article>
     <header>
       <h1 class="title">
-        <a class="title-link" href="https://matijamilakovic.com/projects/">
+        <a class="title-link" href="http://localhost:1313/projects/">
           Projects
         </a>
       </h1>
@@ -140,7 +141,48 @@
 
     <p>This page is a comprehensive showcase of projects I have had the privilege to work on throughout my professional journey.
 Each project showcased here has been handpicked and represents a unique challenge and an opportunity to unleash my creativity, problem-solving skills, and passion for innovation.</p>
-<p>UNDER CONSTRUCTION&hellip;</p>
+<div class="toc">
+    <h2>Table of Contents</h2>
+    <nav id="TableOfContents">
+  <ol>
+    <li><a href="#gun-samurai-prototype---class-based-shooter">Gun Samurai (Prototype) - Class-based Shooter</a>
+      <ol>
+        <li><a href="#overview">Overview</a></li>
+        <li><a href="#prototype">Prototype</a></li>
+      </ol>
+    </li>
+  </ol>
+</nav>
+
+</div>
+<h1 id="gun-samurai-prototype---class-based-shooter">
+  Gun Samurai (Prototype) - Class-based Shooter
+  <a class="heading-link" href="#gun-samurai-prototype---class-based-shooter">
+    <i class="fa fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h1>
+<p>A class-based competitive first-person shooter created with Unreal Engine 5. Set in feudal Japan, it has 12 players fight for control over objectives using authentic era weaponry. It is inspired by popular class-based shooters like <a href="https://store.steampowered.com/app/440/Team_Fortress_2/"  class="external-link" target="_blank" rel="noopener">Team Fortress 2</a> and <a href="https://store.steampowered.com/app/2357570/Overwatch_2/"  class="external-link" target="_blank" rel="noopener">Overwatch</a>.</p>
+<p><strong>DISCLAIMER</strong>: This is a W.I.P. project, so many things are subject to change and will be updated here accordingly.</p>
+<h2 id="overview">
+  Overview
+  <a class="heading-link" href="#overview">
+    <i class="fa fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>In the game&rsquo;s setting, various japanese clans are fighting for control of the nation, using whatever means necessary. The game focuses on the interactions between several fictional clans.</p>
+<p>The game has the players battle in objective-based matches, where the winning team is the one that either has the highest score after the match timer runs out or that successfully completes their objective. Players are able to switch between 6 classes during the match: Engineer, Kaboomer, Monk, Ninja, Ronin and Samurai. Each class is represented by a unique character with their own personality and design.</p>
+<p>Given their extensive martial prowess, each character is able to enter a temporary state of focus to deflect most incoming projectiles. That is, they are able to briefly block incoming attacks by literally cutting down arrows or bullets. This represents the main mechanic of the game, as well executed blocks can save players from otherwise certain death. As such, the game dynamic relies on careful balancing between blocking and attacking during battles.</p>
+<h2 id="prototype">
+  Prototype
+  <a class="heading-link" href="#prototype">
+    <i class="fa fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>The prototype version of Gun Samurai is built with Blueprints in Unreal Engine 5.4. It focuses solely on the Samurai class and features a single King Of The Hill map. The current state of the game allows players to deal and receive damage, as well as block. It also utilizes the new <a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/motion-matching-in-unreal-engine"  class="external-link" target="_blank" rel="noopener">Motion Matching</a> system to create realistic character movements.</p>
+<p>More info. will be added&hellip;</p>
 
   </article>
 </section>
@@ -170,7 +212,7 @@ Each project showcased here has been handpicked and represents a unique challeng
 
   
   
-  <script src="/js/coder.min.6ae284be93d2d19dad1f02b0039508d9aab3180a12a06dcc71b0b0ef7825a317.js" integrity="sha256-auKEvpPS0Z2tHwKwA5UI2aqzGAoSoG3McbCw73gloxc="></script>
+  <script src="/js/coder.js"></script>
   
 
   
@@ -179,6 +221,9 @@ Each project showcased here has been handpicked and represents a unique challeng
 
 
   
+  
+
+
 
   
 
