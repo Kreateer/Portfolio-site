@@ -6,4 +6,8 @@ aliases = ["about-me", "about", "contact"]
 author = "Matija Milaković"
 +++
 
-UNDER CONSTRUCTION
+
+{{< imageres src="/images/me.jpg" alt="Image Alt Text" >}}
+
+
+UNDER CONSTRUCTION..........................................................................................................................................
