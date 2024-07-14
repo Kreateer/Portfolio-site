@@ -2,13 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://matijamilakovic.com/blog/</loc>
+    <lastmod>2024-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matijamilakovic.com/</loc>
+    <lastmod>2024-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matijamilakovic.com/blog/zzz-gacha-masterpiece/</loc>
+    <lastmod>2024-07-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://matijamilakovic.com/about/</loc>
   </url><url>
     <loc>https://matijamilakovic.com/authors/</loc>
   </url><url>
     <loc>https://matijamilakovic.com/categories/</loc>
-  </url><url>
-    <loc>https://matijamilakovic.com/</loc>
   </url><url>
     <loc>https://matijamilakovic.com/projects/</loc>
   </url><url>

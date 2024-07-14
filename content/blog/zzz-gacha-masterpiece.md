@@ -1,7 +1,7 @@
 ---
 title: "ZZZ: A Gacha Masterpiece"
 date: 2024-07-14
-draft: true
+draft: false
 ---
 
 {{< imageres-500px src="/images/zzz_logo.png" alt="Zenless Zone Zero Official Logo" >}}

@@ -2,39 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Matija&#39;s Portfolio</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://matijamilakovic.com/blog/</link>
     <description>Recent content in Blogs on Matija&#39;s Portfolio</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Jul 2023 21:01:18 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://matijamilakovic.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test Post</title>
-      <link>http://localhost:1313/blog/test-post/</link>
-      <pubDate>Fri, 28 Jul 2023 21:01:18 +0200</pubDate>
-      <guid>http://localhost:1313/blog/test-post/</guid>
-      <description></description>
+      <title>ZZZ: A Gacha Masterpiece</title>
+      <link>https://matijamilakovic.com/blog/zzz-gacha-masterpiece/</link>
+      <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://matijamilakovic.com/blog/zzz-gacha-masterpiece/</guid>
+      <description>The newest game release from miHoYo has proven to be the bane of my productivity, but in a good way. It has been a lengthy time since I have been as invested into a video game as I am into Zenless Zone Zero. This &amp;lsquo;urban fantasy ARPG&amp;rsquo; is reminiscent of the Persona games, minus the turn-based combat sequences. I have enjoyed Persona 3 before on my old PlayStation Portable, but I have never been an avid fan of the games.</description>
     </item>
-    <item>
-      <title>More Rich Content</title>
-      <link>http://localhost:1313/blog/more-rich-content/</link>
-      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/more-rich-content/</guid>
-      <description>&lt;p&gt;Hugo Coder provides some Custom Shortcodes.&lt;/p&gt;&#xA;&lt;h2 id=&#34;heading&#34;&gt;&#xA;  &#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#heading&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;</description>
-    </item>
-    <item>
-      <title>HTML and CSS only tabs</title>
-      <link>http://localhost:1313/blog/html-and-css-only-tabs/</link>
-      <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/html-and-css-only-tabs/</guid>
-      <description>Shortcodes Link to heading The following content:&#xA;{{&amp;lt; tabgroup &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Hello&amp;#34; &amp;gt;}} Hello World! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Goodbye&amp;#34; &amp;gt;}} Goodbye Everybody! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; /tabgroup &amp;gt;}} Will generate:&#xA;Hello Hello World! Goodbye Goodbye Everybody! Right alighment Link to heading You can also align the tabs to the right:&#xA;{{&amp;lt; tabgroup align=&amp;#34;right&amp;#34; &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Hello&amp;#34; &amp;gt;}} Hello World! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Goodbye&amp;#34; &amp;gt;}} Goodbye Everybody!</description>
-    </item>
-    <item>
-      <title>Placeholder Text</title>
-      <link>http://localhost:1313/blog/placeholder-text/</link>
-      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-    </item>
+    
   </channel>
 </rss>
