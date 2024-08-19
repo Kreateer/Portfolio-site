@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matija&#39;s Portfolio</title>
-    <link>http://localhost:1313/</link>
+    <link>https://matijamilakovic.com/</link>
     <description>Recent content on Matija&#39;s Portfolio</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 14 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://matijamilakovic.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ZZZ: A Gacha Masterpiece</title>
-      <link>http://localhost:1313/blog/zzz-gacha-masterpiece/</link>
+      <link>https://matijamilakovic.com/blog/zzz-gacha-masterpiece/</link>
       <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/zzz-gacha-masterpiece/</guid>
+      <guid>https://matijamilakovic.com/blog/zzz-gacha-masterpiece/</guid>
       <description>The newest game release from miHoYo has proven to be the bane of my productivity, but in a good way. It has been a lengthy time since I have been as invested into a video game as I am into Zenless Zone Zero. This &amp;lsquo;urban fantasy ARPG&amp;rsquo; is reminiscent of the Persona games, minus the turn-based combat sequences. I have enjoyed Persona 3 before on my old PlayStation Portable, but I have never been an avid fan of the games.</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://matijamilakovic.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>UNDER CONSTRUCTION&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;</description>
+      <guid>https://matijamilakovic.com/about/</guid>
+      <description>My name is Matija Milaković. I&amp;rsquo;ve started my professional journey in the games industry in 2022, studying Game Development at the University of Skövde in Sweden. I&amp;rsquo;ve worked on a variety of projects in multiple roles, but mainly as a gameplay programmer. I also love Warhammer 40k, horror movies and games, anime and brisk walks in nature while brandishing my favorite Casio watches.&#xA;Right now I am working on an FPS called Gun Samurai - a class-based competitive first-person shooter.</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://matijamilakovic.com/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
-      <description>This page is a comprehensive showcase of projects I have worked on throughout my studies and journey as a game developer. Each project showcased here has been handpicked and represents a unique challenge and an opportunity to unleash my creativity, problem-solving skills, and passion for innovation.&#xA;Table of Contents&#xD;Gun Samurai (Prototype) - Class-based Shooter Overview Prototype Phantasmagoria - VR Puzzle Horror Game Design Detailed Overview No More Fish - Multiplayer Puzzle Game My Role Unforgotten Thoughts - Single-player Side-scroller Adventure Game Overview Gun Samurai (Prototype) - Class-based Shooter Link to heading A class-based competitive first-person shooter created with Unreal Engine 5.</description>
+      <guid>https://matijamilakovic.com/projects/</guid>
+      <description>This page is a comprehensive showcase of projects I have worked on throughout my studies and journey as a game developer. Each project showcased here has been handpicked and represents a unique challenge and an opportunity to unleash my creativity, problem-solving skills, and passion for innovation.&#xA;Table of Contents&#xD;Gun Samurai (Prototype) - Class-based Shooter Overview Prototype Phantasmagoria - VR Puzzle Horror Overview No More Fish - Multiplayer Puzzle Game Overview Contributions Unforgotten Thoughts - Single-player Side-scroller Adventure Game Overview Contributions Gun Samurai (Prototype) - Class-based Shooter Link to heading A class-based competitive first-person shooter created with Unreal Engine 5.</description>
     </item>
   </channel>
 </rss>

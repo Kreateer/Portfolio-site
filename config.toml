@@ -78,7 +78,7 @@ table = true
   name = "LinkedIn"
   icon = "fa fa-2x fa-linkedin"
   weight = 4
-  url = "https://www.linkedin.com/in/matija-milakovic/"
+  url = "https://www.linkedin.com/in/matija-milakovi%C4%87/"
 
 # Menu links
 [[menu.main]]
